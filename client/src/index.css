@@ -1,0 +1,22 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+/* label focus color */
+input.yellow-input:focus + label {
+    color: yellow !important;
+}
+
+/* label underline focus color */
+input.yellow-input:focus {
+    border-bottom: 1px solid yellow !important;
+    box-shadow: 0 1px 0 0 yellow !important;
+}
+
+input.yellow-input {
+    color: #FFFFFF !important;
+    border-bottom: 1px solid #FFFFFF !important;
+    box-shadow: 0 1px 0 0 #FFFFFF !important;
+}
+
+input.yellow-input + label {
+    color: #FFFFFF !important;
+}
