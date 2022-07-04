@@ -2,5 +2,5 @@
   "port": 80,
   "jwtSecret": "Andriy IT",
   "mongoUri": "mongodb+srv://Andriy:Andriy-admin@cluster0.2exq7vy.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "https://app.akostiuk.unaux.com"
+  "baseUrl": "http://app.akostiuk.unaux.com"
 }
